@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work, then
-more changes from myfeature branch to.
+more changes from myfeature branch to. 
+EMERGENCY FIX AFTER STASH!
 
 ## Introduction
 

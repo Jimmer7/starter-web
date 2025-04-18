@@ -21,4 +21,4 @@ This is a deploy
 Please fork this repo and then issue pull requests for review.
 
 ### Copyright
-2025 Jim Training
+2025 Jim Training. All Rights Reserved!

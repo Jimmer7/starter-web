@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 This is a deploy
 
 ## How To Contribute
+
+### Copyright
+2025 Jim Training

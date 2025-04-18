@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jim Raposo Jim@awesome.com
 
 # THANKS
 
